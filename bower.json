@@ -1,0 +1,19 @@
+{
+  "name": "firstone",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
